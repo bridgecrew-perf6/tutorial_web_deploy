@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2022-03-31T00:21:39+01:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Ada Lovelace</title>
+  
+
+  
+    <subtitle>Hi, I&apos;m Ada Lovelace and this is my portfolio</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Analytical Machine</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Analytical Machine" />
+      <published>2014-07-18T00:00:00+01:00</published>
+      <updated>2014-07-18T00:00:00+01:00</updated>
+      <id>http://localhost:4000/Analytical-Machine</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Machine Leaning" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">My Institute</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="My Institute" />
+      <published>2014-07-17T00:00:00+01:00</published>
+      <updated>2014-07-17T00:00:00+01:00</updated>
+      <id>http://localhost:4000/My-Institute</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Bernoulli Notes</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Bernoulli Notes" />
+      <published>2014-07-16T00:00:00+01:00</published>
+      <updated>2014-07-16T00:00:00+01:00</updated>
+      <id>http://localhost:4000/Bernoulli-Notes</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
