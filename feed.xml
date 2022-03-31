@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-03-31T00:21:39+01:00</updated>
+  <updated>2022-03-31T08:13:08+01:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -12,7 +12,7 @@
   
 
   
-    <subtitle>Hi, I&apos;m Ada Lovelace and this is my portfolio</subtitle>
+    <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
   
 
   
@@ -40,7 +40,7 @@
       </author>
 
       
-        <category term="Machine Leaning" />
+        <category term="Computer Science" />
       
 
       
@@ -54,11 +54,11 @@
     </entry>
   
     <entry>
-      <title type="html">My Institute</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="My Institute" />
+      <title type="html">Bernoulli Notes</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Bernoulli Notes" />
       <published>2014-07-17T00:00:00+01:00</published>
       <updated>2014-07-17T00:00:00+01:00</updated>
-      <id>http://localhost:4000/My-Institute</id>
+      <id>http://localhost:4000/Bernoulli-Notes</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -88,11 +88,11 @@
     </entry>
   
     <entry>
-      <title type="html">Bernoulli Notes</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Bernoulli Notes" />
+      <title type="html">My Institute</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="My Institute" />
       <published>2014-07-16T00:00:00+01:00</published>
       <updated>2014-07-16T00:00:00+01:00</updated>
-      <id>http://localhost:4000/Bernoulli-Notes</id>
+      <id>http://localhost:4000/My-Institute</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
